@@ -1,0 +1,15 @@
+{
+  "name": "tailwind-css_twitter-clone_design",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "npx tailwindcss -i css/style.css -o css/output.css --watch"
+  },
+  "keywords": [],
+  "author": "Mahmoud Zayed",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
